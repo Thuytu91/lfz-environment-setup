@@ -52,5 +52,7 @@ If you experience any issues during the setup process, please reach out in the p
 1. When the above forking is complete, it is time to configure `Git` with your name and email so that it can correctly track and manage the code you will be working on in this and other LearningFuze programs.
     - Watch the video below on configuring `Git`:
         - Git config video: https://youtu.be/kdwH4680WuA
-1. When `Git` has been properly configured, it is time to clone down your forked version of the `lfz-root1-lessons` repository.
-    - 
+1. When `Git` has been properly configured, it is time to create the `lfz` directory which will hold the repository for this class.
+    - Watch the video on creating the `lfz` directory: https://youtu.be/39qZ0oGc1a4
+1. When you have successfully created the `lfz` folder, it is time to clone down the `lfz-root1-lessons` you forked in step 8 and create your first git branch.
+    - Watch the video on cloning down the forked repo and creating git branches: 
