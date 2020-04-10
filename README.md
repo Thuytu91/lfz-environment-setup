@@ -56,7 +56,7 @@ If you experience any issues during the setup process, please reach out in the p
 1. When `Git` has been properly configured, it is time to create the `lfz` directory which will hold the repository for this class.
     - Watch the video on creating the `lfz` directory: https://youtu.be/39qZ0oGc1a4
 1. When you have successfully created the `lfz` folder, it is time to clone down the `lfz-root1-lessons` you forked in step 8 and create your first git branch.
-    - Watch the video on cloning down the forked repo and creating git branches:
+    - Watch the video on cloning down the forked repo and creating git branches: https://youtu.be/rmh9DpuUeCY
 1. When the repository has been properly cloned, it is time to use `VS Code` to open the files of the repository and to create a new folder and a new `index.html` file which will hold some example `HTML` code.
     - Watch the video on using `VS Code` to open repositories and create new files and folders: https://youtu.be/UjFYiByVtiM
 1. When you have been able to create your `index.html` file and open it correctly in the browser, it is time to use `Git` to save your file changes to the example branch and push that branch to Github so you can make a pull request to have your code checked by an instructor.
