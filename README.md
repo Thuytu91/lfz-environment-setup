@@ -13,7 +13,7 @@ If you experience any issues during the setup process, please reach out in the p
     - Zoom will be used for all remote classes and all remote student help.
     - Install link: https://zoom.us/download
 1. Using the instructions located in the `lfz-code` repository, install `VS code` and `git` / `git bash`.
-    - The LearningFuze programs uses a specially configured version of `VS code`. If you already have it installed on your system, you will need to delete it during the setup process.
+    - The LearningFuze programs use a specially configured version of `VS code`. If you already have `VS Code` installed on your system, and you did not get it from us, you will need to delete it during the setup process.
         - Note: Instructions for both `Mac` and `Windows` have both automatic installation and manual installation instructions.
         - If you are unable to complete automatic installation, please install using the manual instructions.
     - Installation instructions for `Mac` users: https://github.com/Learning-Fuze/lfz-code#macos-instructions
@@ -25,7 +25,7 @@ If you experience any issues during the setup process, please reach out in the p
                 - Give your `Github` name to an instructor so you can be added.
         - Example output:
         ![github 404](./images/404-example.png)
-1. When the above installation is complete, you must confirm that git (on `Mac`) / git bash (on `Windows`) was installed correctly.
+1. When the above installation, either manual or automatic is complete, you must confirm that git (on `Mac`) / git bash (on `Windows`) was installed correctly.
     - On `Mac`, open the `Terminal` application, and type `git` into the command line and press `enter`.
     - On `Windows` open the `Git Bash` application, and type `git` into the command line and press `enter`
     - If `Git` has been properly installed you should see the following output in the command line window:
@@ -38,7 +38,7 @@ If you experience any issues during the setup process, please reach out in the p
     - Open `VS Code` and confirm that the bar on the bottom of your window is black:
         - Example `VS Code` screen:
         ![example vs code](./images/vs-example.png)
-        - Example of black back:
+        - Example of black bar:
         ![example black bar](./images/vs-bar-focus.png)
     - If the bar is not black, contact an instructor so that they can assist you with getting the proper build of `VS Code`.
 1. When the above installation is confirmed, it is time to install the `Slack` app.
@@ -55,4 +55,13 @@ If you experience any issues during the setup process, please reach out in the p
 1. When `Git` has been properly configured, it is time to create the `lfz` directory which will hold the repository for this class.
     - Watch the video on creating the `lfz` directory: https://youtu.be/39qZ0oGc1a4
 1. When you have successfully created the `lfz` folder, it is time to clone down the `lfz-root1-lessons` you forked in step 8 and create your first git branch.
-    - Watch the video on cloning down the forked repo and creating git branches: 
+    - Watch the video on cloning down the forked repo and creating git branches:
+1. When the repository has been properly cloned, it is time to use `VS Code` to open the files of the repository and to create a new folder and a new `index.html` file which will hold some example `HTML` code.
+    - Watch the video on using `VS Code` to open repositories and create new files and folders: https://youtu.be/UjFYiByVtiM
+1. When you have been able to create your `index.html` file and open it correctly in the browser, it is time to use `Git` to save your file changes to the example branch and push that branch to Github so you can make a pull request to have your code checked by an instructor.
+    - Watch the video on using `Git` to push your code to Github: https://youtu.be/n6MmLhWMSuw
+1. When you have been able to successfully add, commit, and push your changes to the `example` branch on `Github` it is time to go back to the `master` branch and add the `upstream` url which will be used to update your forked version of the repository.
+    - Watch the video on adding the correct `upstream` url: https://youtu.be/VNGj9jJpexo
+1. When you have completed setting the upstream url, it is time to create a pull request on Github.
+    - Watch the video on creating a pull request on Github: https://youtu.be/BmEU47GRcYo
+1. When the pull request has been made and you have posted it in the correct `pull-requests` channel, congratualtions!!! your setup process is completed. Please Let your instructor know that you have completed the process, and get ready to become the coder you have been dreaming of!!!
