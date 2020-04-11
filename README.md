@@ -65,4 +65,4 @@ If you experience any issues during the setup process, please reach out in the p
     - Watch the video on adding the correct `upstream` url: https://youtu.be/VNGj9jJpexo
 1. When you have completed setting the upstream url, it is time to create a pull request on Github.
     - Watch the video on creating a pull request on Github: https://youtu.be/BmEU47GRcYo
-1. When the pull request has been made and you have posted it in the correct `pull-requests` channel, congratualtions!!! your setup process is completed. Please Let your instructor know that you have completed the process, and get ready to become the coder you have been dreaming of!!!
+1. When the pull request has been made and you have posted it in the correct `pull-requests` channel, congratulations!!! your setup process is completed. Please Let your instructor know that you have completed the process, and get ready to become the coder you have been dreaming of!!!
