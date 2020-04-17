@@ -47,7 +47,7 @@ If you experience any issues during the setup process, please reach out in the p
     - After installation is complete, make sure to open the application and log in to confirm you are in the proper `LearningFuze` workspace.
 1. When the above installation is complete and you are properly logged into `Slack`, it is time to `fork` the `Github` repository which contains all of the exercises and resources for the class. Please choose the link below which matches your class, either Root or Module 1.
     - Link for Root 1 lessons repo: https://github.com/Learning-Fuze/lfz-root1-lessons
-    - Link for Module 1 lessons repo: https://github.com/Learning-Fuze/lfz-module-1-lessons
+    - Link for Module 1 lessons repo: https://github.com/Learning-Fuze/lfz-mod-1-lessons
     - Watch the video below on forking a repository:
         - Forking Video: https://youtu.be/pRhr2Ia6i70
 1. When the above forking is complete, it is time to configure `Git` with your name and email so that it can correctly track and manage the code you will be working on in this and other LearningFuze programs.
