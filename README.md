@@ -45,7 +45,7 @@ If you experience any issues during the setup process, please reach out in the p
     - The desktop/laptop application is required for all `LearningFuze` programs as it is much easier to miss notifications when using the web application.
     - Installation downloads link: https://slack.com/downloads/
     - After installation is complete, make sure to open the application and log in to confirm you are in the proper `LearningFuze` workspace.
-1. When the above installation is complete and you are properly logged into `Slack`, it is time to `fork` the `Github` repository which contains all of the exercises and resources for the class. Please choose the link below which matches your class, either Root or Module 1. **Please note that you will only be following one of the below links, corresponding to the class you are currently completing this guide for.**
+1. When the above installation is complete and you are properly logged into `Slack`, it is time to `fork` the `Github` repository which contains all of the exercises and resources for the class. Please choose the link below which matches your class, either the LFZ Prep Course or Module 1 of the Part Time Program. **Please note that you will only be following one of the below links, corresponding to the class you are currently completing this guide for.**
     - Link for LFZ Prep lessons repo: https://github.com/Learning-Fuze/lfz-prep-lessons
     - Link for Module 1 lessons repo: https://github.com/Learning-Fuze/lfz-mod-1-lessons
     - Watch the video below on forking a repository:
