@@ -2,4 +2,4 @@
 
 ## Mac OS
 
-## Prep Class for Part Time Program
+## Module 1 Orientation

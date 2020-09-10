@@ -2,4 +2,4 @@
 
 ## Mac OS
 
-## Prep Class for Full Immersion Program
+## Prep Class 

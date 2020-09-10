@@ -2,7 +2,7 @@
 
 ## Mac OS
 
-## Prep Class for Full Immersion Program
+## Prep Class 
 
 
 The following is a step by step guide to setting up the LearningFuze coding environment, which you will be using for all LearningFuze-related exercises, challenges, and coding activities.
