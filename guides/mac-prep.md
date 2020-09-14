@@ -20,7 +20,7 @@ If you experience any issues during the setup process, please reach out in the p
     - Installation downloads link: https://slack.com/downloads/
     - After installation is complete, make sure to open the application and log in to confirm you are in the proper `LearningFuze` workspace.
 1. Now that the `Slack` app has been installed, it is time to submit your Github name in the primary Slack channel for your class. **THIS STEP IS MANDATORY TO BE ABLE TO CONTINUE THE SETUP PROCESS**
-1. Now that you Github name is added to the team for the class, Use the instructions located in the `lfz-code` repository to install `VS code` and `Git`.
+1. Once you receive confirmation from an instructor that your account has been added to the GitHub team, Use the instructions located in the `lfz-code` repository to install `VS code` and `Git`.
     - Installation instructions: https://github.com/Learning-Fuze/lfz-code#macos-instructions
 
     - **NOTE:** The LearningFuze programs use a specially configured version of `VS code`. If you already have `VS Code` installed on your system, and you did not get it from us, you will **need** to delete it during the setup process.
@@ -59,7 +59,7 @@ If you experience any issues during the setup process, please reach out in the p
         - Forking Video: https://youtu.be/_a8u4iA0lT8
 
 1. When the repository has been correctly forked, it is time to create the `lfz` folder which will hold the repository for this class.
-    - Watch the video on creating the `lfz` folder: https://youtu.be/r6nzgIFhAyo
+    - Watch the video on creating the `lfz` folder: https://youtu.be/h683SrP1mT0
 1. When you have successfully created the `lfz` folder, it is time to clone down the GitHub repository that you forked in step 9 to your `lfz` folder. In addition, you will also be creating the `example` git branch which you will be doing your work on!
     - Watch the video on cloning down the forked repo and creating a `Git` branch: https://youtu.be/XpszmU5asi0
 1. When you have been able to successfully clone down the `lfz-prep-lessons` repository and create your `example` branch, it is time to add the `upstream` url.
@@ -71,5 +71,5 @@ The `upstream` url will be used to update your forked version of the repository 
     - Watch the video on using `Git` to add, commit, and push your code to Github: https://youtu.be/GUchqFOI2_c
 
 1. When you have completed adding, committing, and pushing your branch to Github, it is time to create your pull request.
-    - Watch the video on creating a pull request on Github: https://youtu.be/WFwJoIhBp00
+    - Watch the video on creating a pull request on Github: https://youtu.be/evgt5izGMBI
 1. When the pull request has been made and you have posted it in the correct `pull-requests` channel, congratulations!!! your setup process is completed. Please let your instructor know that you have completed the process, and get ready to become the coder you have been dreaming of!!!
