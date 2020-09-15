@@ -24,10 +24,11 @@ If you experience any issues during the setup process, please reach out in the p
     - Installation instructions: https://github.com/Learning-Fuze/lfz-code#macos-instructions
 
     - **NOTE:** The LearningFuze programs use a specially configured version of `VS code`. If you already have `VS Code` installed on your system, and you did not get it from us, you will **need** to delete it during the setup process.
-        - Note: Installation instructions are available for both automatic and manual installation.
-            - Automatic Installation [Click Here](https://github.com/Learning-Fuze/lfz-code#macos-instructions)
-            - Manual Installation [Click Here](https://github.com/Learning-Fuze/lfz-code/blob/master/macos/MANUAL_INSTRUCTIONS.md)
+        - Note: Installation instructions are available for both automatic and manual installation. Automatic installation is preferred!
+          - Automatic Installation [Click Here](https://github.com/Learning-Fuze/lfz-code#macos-instructions)
         - If you are unable to complete automatic installation, please install using the manual instructions.
+            - Manual Installation [Click Here](https://github.com/Learning-Fuze/lfz-code/blob/master/macos/MANUAL_INSTRUCTIONS.md)
+
         - **NOTE:** If you see the example screen below when following the above instructions link, there are two possible reasons:
             - You are not logged in to `Github`
                 - Logging in will fix this
