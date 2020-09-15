@@ -17,14 +17,16 @@ If you experience any issues during the setup process, please reach out in the p
     - Install link: https://zoom.us/download
 1. When the above installation is confirmed, it is time to install the `Slack` app.
     - The desktop/laptop application is required for all `LearningFuze` programs as it is much easier to miss notifications when using the web application.
-    - Installation downloads link: https://slack.com/downloads/
+    - Install link: https://slack.com/downloads/
     - After installation is complete, make sure to open the application and log in to confirm you are in the proper `LearningFuze` workspace.
 1. Now that the `Slack` app has been installed, it is time to submit your Github name in the primary Slack channel for your class. **THIS STEP IS MANDATORY TO BE ABLE TO CONTINUE THE SETUP PROCESS**
-1. Once you receive confirmation from an instructor that your account has been added to the GitHub team, Use the instructions located in the `lfz-code` repository to install `VS code` and `Git`.
+1. Once you receive confirmation from an instructor that your account has been added to the GitHub team, use the instructions located in the `lfz-code` repository to install `VS code` and `Git`.
     - Installation instructions: https://github.com/Learning-Fuze/lfz-code#macos-instructions
 
     - **NOTE:** The LearningFuze programs use a specially configured version of `VS code`. If you already have `VS Code` installed on your system, and you did not get it from us, you will **need** to delete it during the setup process.
-        - Note: Installation instructions are available for both automatic and manual installation .
+        - Note: Installation instructions are available for both automatic and manual installation.
+            - Automatic Installation [Click Here](https://github.com/Learning-Fuze/lfz-code#macos-instructions)
+            - Manual Installation [Click Here](https://github.com/Learning-Fuze/lfz-code/blob/master/macos/MANUAL_INSTRUCTIONS.md)
         - If you are unable to complete automatic installation, please install using the manual instructions.
         - **NOTE:** If you see the example screen below when following the above instructions link, there are two possible reasons:
             - You are not logged in to `Github`
@@ -39,7 +41,7 @@ If you experience any issues during the setup process, please reach out in the p
         - Example output:
         ![terminal example](../images/terminal-example.png)
 
-    - What you are seeing is a list of `Git` commands, this means installation is complete.
+    - What you are seeing is a list of `Git` commands; this means installation is complete.
     - If you do not see the above output, contact an instructor for assistance!!
 1. Once you have confirmed `Git` is installed, it is time to configure `Git` with your name and email so that it can correctly track and manage the code you will be working on in this and other LearningFuze programs.
     - Watch the video below on configuring `Git`:
@@ -51,7 +53,7 @@ If you experience any issues during the setup process, please reach out in the p
         ![example vs code](../images/vs-example.png)
         - Example of black bar:
         ![example black bar](../images/vs-bar-focus.png)
-    - If the bar is not black, contact an instructor so that they can assist you with getting the proper build of `VS Code`.
+    - If the bar is not black, head to the `Manual VS Code Installation Instructions` [Click Here](https://github.com/Learning-Fuze/lfz-code/blob/master/macos/MANUAL_INSTRUCTIONS.md).
 
 1. When the above confirmation is complete, it is time to `fork` the `Github` repository which contains all of the exercises and resources for the class.
     - Link for lfz-prep-lessons repo: https://github.com/Learning-Fuze/lfz-prep-lessons
@@ -65,11 +67,11 @@ If you experience any issues during the setup process, please reach out in the p
 1. When you have been able to successfully clone down the `lfz-prep-lessons` repository and create your `example` branch, it is time to add the `upstream` url.
 The `upstream` url will be used to update your forked version of the repository during the `Prep Class` as needed.
     - Watch the video on adding the correct `upstream` url: https://youtu.be/bjCmtKL1Vu8
-1. When the `upstream` url has been successfully created, it is time to use `VS Code` to open the `example` folder in the `lfz-prep-lessons` repo and to create a new `index.html` file which will hold some example `HTML` code.
+1. When the `upstream` url has been successfully created, it is time to use `VS Code` to open the `example` folder in the `lfz-prep-lessons` repo and create a new `index.html` file which will hold some example `HTML` code.
     - Watch the video on using `VS Code` to open repositories and create new files: https://youtu.be/mfIGCWY9iJY
-1. When you have been able to create your `index.html` file and open it correctly in the browser, it is time to use `Git` to save your file changes to the example branch and push that branch to Github so you can make a pull request to have your code checked by an instructor.
+1. When you have been able to create your `index.html` file and open it correctly in the browser, it is time to use `Git` to save your file changes to the example branch, and push that branch to Github so you can make a pull request to have your code checked by an instructor.
     - Watch the video on using `Git` to add, commit, and push your code to Github: https://youtu.be/GUchqFOI2_c
 
 1. When you have completed adding, committing, and pushing your branch to Github, it is time to create your pull request.
     - Watch the video on creating a pull request on Github: https://youtu.be/evgt5izGMBI
-1. When the pull request has been made and you have posted it in the correct `pull-requests` channel, congratulations!!! your setup process is completed. Please let your instructor know that you have completed the process, and get ready to become the coder you have been dreaming of!!!
+1. When the pull request has been made and you have posted it in the correct `pull-requests` channel, congratulations!!! Your setup process is completed! Please let your instructor know that you have completed the process, and get ready to become the coder you have been dreaming of!!!
