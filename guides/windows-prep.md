@@ -35,12 +35,12 @@ If you experience any issues during the setup process, please reach out in the p
             - You have not been added to the `Github` team.
                 - Give your `Github` name to an instructor so you can be added to the team.
         - Example output:
-        ![github 404](../images/404-example.png)
+        ![github 404](../images/windows-404.png)
 1. When the above installation, either manual or automatic is complete, you must confirm that `Git` was installed correctly.
     - On `Mac`, open the `Terminal` application, and type `git` into the command line and press `enter`.
     - If `Git` has been properly installed you should see the following output in the command line window:
         - Example output:
-        ![terminal example](../images/terminal-example.png)
+        ![terminal example](../images/git-windows.png)
 
     - What you are seeing is a list of `Git` commands; this means installation is complete.
     - If you do not see the above output, contact an instructor for assistance!!
@@ -54,7 +54,7 @@ If you experience any issues during the setup process, please reach out in the p
         ![example vs code](../images/vs-example.png)
         - Example of black bar:
         ![example black bar](../images/vs-bar-focus.png)
-    - If the bar is not black, head to the `Manual VS Code Installation Instructions` [Click Here](https://github.com/Learning-Fuze/lfz-code/blob/master/macos/MANUAL_INSTRUCTIONS.md).
+    - If the bar is not black, head to the `Manual VS Code Installation Instructions` [Click Here](https://github.com/Learning-Fuze/lfz-code/blob/master/windows/MANUAL_INSTRUCTIONS.md).
 
 1. When the above confirmation is complete, it is time to `fork` the `Github` repository which contains all of the exercises and resources for the class.
     - Link for lfz-prep-lessons repo: https://github.com/Learning-Fuze/lfz-prep-lessons
