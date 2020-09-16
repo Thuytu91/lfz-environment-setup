@@ -59,7 +59,7 @@ If you experience any issues during the setup process, please reach out in the p
 1. When the above confirmation is complete, it is time to `fork` the `Github` repository which contains all of the exercises and resources for the class.
     - Link for lfz-prep-lessons repo: https://github.com/Learning-Fuze/lfz-prep-lessons
     - Watch the video below on forking a repository:
-        - Forking Video:
+        - Forking Video: https://youtu.be/_a8u4iA0lT8
 
 1. When the repository has been correctly forked, it is time to create the `lfz` folder which will hold the repository for this class.
     - Watch the video on creating the `lfz` folder: https://youtu.be/AzydX4Wdgfw
@@ -69,7 +69,7 @@ If you experience any issues during the setup process, please reach out in the p
 The `upstream` url will be used to update your forked version of the repository during the `Prep Class` as needed.
     - Watch the video on adding the correct `upstream` url:https://youtu.be/GztAYJ-3oME
 1. When the `upstream` url has been successfully created, it is time to use `VS Code` to open the `example` folder in the `lfz-prep-lessons` repo and create a new `index.html` file which will hold some example `HTML` code.
-    - Watch the video on using `VS Code` to open repositories and create new files:https://youtu.be/IaQsI6sNKtw
+    - Watch the video on using `VS Code` to open repositories and create new files: https://youtu.be/yQonRjjA4j8
 1. When you have been able to create your `index.html` file and open it correctly in the browser, it is time to use `Git` to save your file changes to the example branch, and push that branch to Github so you can make a pull request to have your code checked by an instructor.
     - Watch the video on using `Git` to add, commit, and push your code to Github:https://youtu.be/S5Izz6vQVIg
 
