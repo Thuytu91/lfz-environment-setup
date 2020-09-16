@@ -6,5 +6,5 @@ Now that you have chosen your operating system, please choose the program you ar
 If you are taking the `Prep Class`:
   - Please follow this link: [Instructions](./mac-prep.md)
 
-else, if you are in `Module 1` orientation:
-  - Please follow this link: [Instructions](./mac-part-time.md)
+<!-- else, if you are in `Module 1` orientation:
+  - Please follow this link: [Instructions](./mac-part-time.md) -->
